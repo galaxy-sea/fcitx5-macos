@@ -3,7 +3,7 @@
 	url = https://github.com/fcitx/fcitx5
 [submodule "fcitx5-webview"]
 	path = fcitx5-webview
-	url = https://github.com/fcitx-contrib/fcitx5-webview
+	url = https://github.com/galaxy-sea/fcitx5-webview.git
 [submodule "fcitx5-beast"]
 	path = fcitx5-beast
 	url = https://github.com/fcitx-contrib/fcitx5-beast
